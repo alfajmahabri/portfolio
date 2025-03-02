@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<student>   
+    <TYA>
+        <rollno>1</rollno>
+        <name>Alfaj</name>
+        <address>Sangli</address>
+    </TYA>
+    <TYA>
+        <rollno>2</rollno>
+        <name>XYZ</name>
+        <address>Kolhapur</address>
+    </TYA>
+    <TYA>
+        <rollno>3</rollno>
+        <name>ABC</name>
+        <address>Satara</address>
+    </TYA>
+    <TYA>
+        <rollno>4</rollno>
+        <name>ABCD</name>
+        <address>Karad</address>
+    </TYA>
+</student>
